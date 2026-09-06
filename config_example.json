@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_DISCORD_APPLICATION_ID",
+  "guildId": "YOUR_SERVER_ID",
+  "ownerIds": ["YOUR_DISCORD_USER_ID", "FRIEND_DISCORD_USER_ID"],
+  "defaultExpirySeconds": 3600
+}
